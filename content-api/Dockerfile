@@ -1,4 +1,4 @@
-# Dockerfile for content-api
+# Dockerfile for content-api - git test
 # This is the base image that can be used
 FROM node:fermium  
 #This is the environment variable with connection to the MongoDB. Can be overriden in the docker run command with the -e switch
